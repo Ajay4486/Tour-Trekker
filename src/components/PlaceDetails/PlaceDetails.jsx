@@ -9,13 +9,14 @@ import useStyles from './styles.js';
 const PlaceDetails = ({ place }) => {
     const classes = useStyles();
     return (
-        <Card elevation={6}>
-        <CardMedia
-          style={{ height: 350 }}
-          image={place.photo ? place.photo.images.large.url : 'https://www.foodserviceandhospitality.com/wp-content/uploads/2016/09/Restaurant-Placeholder-001.jpg'}
-          title={place.name}
-        />
-        </Card>
+        // <Card elevation={6}>
+        // <CardMedia
+        //   style={{ height: 350 }}
+        //   image={place.photo ? place.photo.images.large.url : 'https://www.foodserviceandhospitality.com/wp-content/uploads/2016/09/Restaurant-Placeholder-001.jpg'}
+        //   title={place.name}
+        // />
+        // </Card>
+        <h2>Hello</h2>
     );
 
 }
