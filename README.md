@@ -1,9 +1,4 @@
-<<<<<<< HEAD
-# Tour-Trekker
-=======
-<<<<<<< HEAD
-# Tour-Trekker
-=======
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -74,5 +69,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
->>>>>>> 5fd2cfb (Tour-Trekker)
->>>>>>> c1d97a6 (Tour)
+
